@@ -27,7 +27,7 @@ const ThankYouPage = async () => {
               below.
             </p>
             <Link
-              href="/"
+              href="/products"
               className="text-sm font-medium text-blue-600 hover:text-blue-500"
             >
               Continue shopping &rarr;
